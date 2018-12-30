@@ -1,0 +1,6 @@
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\obj\Debug\BasicLibrary.csprojAssemblyReference.cache
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\obj\Debug\BasicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Users\Cody\source\repos\Exploration\PersonLibrary\PersonLibrary\obj\Debug\PersonLibrary.pdb
